@@ -24,6 +24,11 @@
 * 4 byte SHORT(float): 	[0-9]+_f
 * 8 byte LONG (double): 	[0-9]+_d
 
+# KEYWORDS:
+* While: Whale
+*	If: Iguana
+*	Else: Elephant
+
 # SEE DOC FOR REST:
   
 https://docs.google.com/document/d/1nkkAqYrTwohuYH_5K3Iwt1ATRMISi3IN/edit?usp=sharing&ouid=109582375527567682751&rtpof=true&sd=true
