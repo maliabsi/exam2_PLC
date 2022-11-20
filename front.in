@@ -1,0 +1,12 @@
+begin;
+temp brownie_batter;          
+brownie_batter = 8#_b;        
+temp 8apple_p;                
+8apple_p = 64_b;
+
+whale(8apple_p > brownie_batter);
+    if(apple_p @ brownie_batter);      
+        apple_p /= brownie_batter;     
+    elephant;
+        brownie_batter_++;
+end;
