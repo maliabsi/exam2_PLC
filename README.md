@@ -75,5 +75,4 @@
 
 # SEE DOC FOR REST:
   
-https://docs.google.com/document/d/1nkkAqYrTwohuYH_5K3Iwt1ATRMISi3IN/edit?usp=sharing&ouid=109582375527567682751&rtpof=true&sd=true
-
+https://docs.google.com/document/d/1c1CKPVK2RPAiskiI82ruzTDwOySZDg5z/edit?usp=sharing&ouid=117926942441823319803&rtpof=true&sd=true
