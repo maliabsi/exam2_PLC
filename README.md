@@ -73,6 +73,20 @@
 * BFACTOR -> int_lit
 * BFACTOR -> ( BEXPR )
 
+# FIRST TABLE:
+<img width="252" alt="image" src="https://user-images.githubusercontent.com/90993724/205756541-f0530e03-5e04-4933-8c1a-db03234c0984.png">
+
+# CODE SAMPLES:
+* CORRECT: 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/90993724/205756164-95ace011-1cae-4d7d-8e23-c2d21e870e1c.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/90993724/205756223-078980fa-39de-46c6-957a-edaddc2e1465.png">
+
+* INCORRECT: 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/90993724/205756343-17973832-324e-4540-896f-5c91cb13e813.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/90993724/205756369-4fa57a2f-9271-47f4-85f0-4d34f7cba715.png">
+
+
+
 # SEE DOC FOR REST:
   
 https://docs.google.com/document/d/1c1CKPVK2RPAiskiI82ruzTDwOySZDg5z/edit?usp=sharing&ouid=117926942441823319803&rtpof=true&sd=true
