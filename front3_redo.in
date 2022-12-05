@@ -1,0 +1,12 @@
+begin
+temp do_si_do;
+do_si_do = 5_b;
+temp samoas_;
+samoas_ = 33_b;
+temp tre_foil;
+tre_foil = 2_b;
+
+iguana(samoas_ ^ do_si_do){
+    do_si_do = tre_foil +  do_si_do;
+}
+end

@@ -1,0 +1,12 @@
+begin
+temp brownie_;
+brownie_ = 89_b;
+temp apple_p;
+apple_p = 64_b;
+
+whale(apple_p > brownie_){
+    iguana(apple_p @ brownie_){
+        apple_p = apple_p / brownie_;
+    }
+}
+end
