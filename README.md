@@ -32,24 +32,6 @@
 *	Begin
 *	End
 
-# PRODUCTION RULES:
-<program> -> begin <stmt_list> end
-<stmt_list> -> <stmt>
-* <stmt> -> <whale_loop> | <declare> | <iguana_stmt> | <assign_stmt> | <block>
-* <block -> { <stmt_list> }
-* <while_loop> -> ‘whale’ ‘(‘ <bool_expr> ’)’ <block>
-* <declare> -> ‘temp’ ‘id’ ‘;’
-* <if_stmt> -> ‘iguana’ ‘(‘ <bool_expr> ’)’ <block> [ ‘elephant’ <block> ]
-* <assign_stmt> -> ‘id’ ‘=’ <expr> ‘;’
-* <expr> -> <term> { (‘*’| ‘-‘) <term> }
-* <term> -> <factor> { (‘/’| ‘+’ | ‘%’) <factor> }
-* <factor> -> ‘id’ | ‘int_lit’ |  ‘(‘ <expr> ‘)’
-* <bool_expr> -> <brel> { (‘!’| ‘@’) <brel> }
-* <brel> -> <bexpr> { (‘#’| ‘^’| ‘<’| ‘>‘) <bexpr> }
-* <bexpr> -> <bterm> { (‘*’| ‘-‘) <bterm> }
-* <bterm> -> <bfactor> { (‘/’| ‘+’| ‘%’) <bfactor> }
-* <bfactor> -> ‘id’ | ‘int_lit’ | ‘(‘ <bexpr> ‘)’
-  
 # PARSE TABLE RULES:
 * S' -> PROGRAM
 * PROGRAM -> begin STMT_LIST end
