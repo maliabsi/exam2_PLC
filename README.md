@@ -33,8 +33,8 @@
 *	End
 
 # PRODUCTION RULES:
-* <program> -> begin <stmt_list> end
-* <stmt_list> -> <stmt>
+<program> -> begin <stmt_list> end
+<stmt_list> -> <stmt>
 * <stmt> -> <whale_loop> | <declare> | <iguana_stmt> | <assign_stmt> | <block>
 * <block -> { <stmt_list> }
 * <while_loop> -> ‘whale’ ‘(‘ <bool_expr> ’)’ <block>
